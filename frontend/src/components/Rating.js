@@ -26,7 +26,7 @@ const Rating = ({ value, text, color }) => {
             </span>
             from
             <span className='m-1'>{text && text}</span>
-            Reviews
+            reviews
         </div>
     )
 }
